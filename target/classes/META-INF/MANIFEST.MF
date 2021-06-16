@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: C81-S3-Ply-blog
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hp
+Implementation-Vendor-Id: com.yc
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://spring.io/projects/spring-boot/C81-S3-Ply-
+ blog
+Created-By: Maven Integration for Eclipse
+
